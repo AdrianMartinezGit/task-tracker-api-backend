@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8rOpGf9hthge93quP0sgszFqgurxlToY1/p6E/dFlDM=",
+  "Source": "task-tracker-api-backend",
+  "BasePath": "_content/task-tracker-api-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
