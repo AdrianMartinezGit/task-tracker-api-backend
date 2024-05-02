@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "5kv6oGiTHqBYnYVWUzEzvNWhwsvvZB7Gp3wjmn766cFJ4B2aCV026/pedapIERlpudU7EtYbZlyIzoaIVKFmgw==",
   "success": true,
-  "projectFilePath": "/Users/lemonsquirt/Documents/ClientJakobBE/task-tracker-api-backend/task-tracker-api-backend.csproj",
+  "projectFilePath": "C:\\Users\\TheMARKZAPPER89\\Documents\\My Web Api Projects\\task-tracker-api-backend\\task-tracker-api-backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TheMARKZAPPER89\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\TheMARKZAPPER89\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
