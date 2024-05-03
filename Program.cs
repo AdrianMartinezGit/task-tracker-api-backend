@@ -16,7 +16,7 @@ builder.Services.AddDbContext<DataContext>(Options => Options.UseSqlServer(conne
 
 builder.Services.AddCors(options => options.AddPolicy("TaskTrackerPolicy", 
 builder => {
-    builder.WithOrigins("http://localhost:5074", "http://localhost:3000", "https://tasktrackerfullstack.vercel.app")
+    builder.WithOrigins("http://localhost:5074", "http://localhost:3000", "https://tasktrackerfullstack.vercel.app", "https://tasktrackerfullstack-git-master-elizabeths-projects-63ee5ef5.vercel.app")
     .AllowAnyHeader()
     .AllowAnyMethod();
 }
